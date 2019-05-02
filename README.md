@@ -1,1 +1,1 @@
-# stoper-react
+# stoper
